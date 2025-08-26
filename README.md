@@ -1,7 +1,7 @@
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
 ### Date:26.08.2025
 
-### REg No:212223240068
+### Reg No:212223240068
 
 ### Name:Karuniya M
 ### AIM:
