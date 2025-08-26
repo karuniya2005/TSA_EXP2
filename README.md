@@ -1,5 +1,9 @@
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
-Date:26.08.2025
+### Date:26.08.2025
+
+### REg No:212223240068
+
+### Name:Karuniya M
 ### AIM:
 To Implement Linear and Polynomial Trend Estiamtion Using Python.
 
